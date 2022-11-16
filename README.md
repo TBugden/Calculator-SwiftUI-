@@ -1,5 +1,3 @@
-# Calculator-SwiftUI-
-
 # Calculator (SwiftUI)
 
 | Light                                                                                                    | Dark                                                                                                     |
