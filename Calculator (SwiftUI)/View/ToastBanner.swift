@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+/// Show a toast banner over the top of the view
 struct ToastBanner: ViewModifier {
     @State var shakeAnimation = false
     @State var flashAnimation = false
